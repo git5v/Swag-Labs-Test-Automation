@@ -1,6 +1,6 @@
 # 🧪 Swag Labs Test Automation
 
-An end-to-end (E2E) automation suite for the [Sauce Demo](https://www.saucedemo.com/) web application. This project demonstrates modern QA practices using **Python**, **Selenium WebDriver**, and **Pytest**.
+An end-to-end (E2E) automation suite for the [Sauce Demo](https://www.saucedemo.com/) web application. This project leverages **Python**, **Selenium WebDriver**, and **Pytest**.
 
 ## 🏗️ Architecture: Page Object Model (POM)
 This project implements the **Page Object Model** design pattern to ensure scripts are scalable, maintainable, and readable.

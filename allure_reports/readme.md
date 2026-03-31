@@ -1,0 +1,2 @@
+Generated Allure reports location
+

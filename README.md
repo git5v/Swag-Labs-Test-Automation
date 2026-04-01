@@ -45,3 +45,6 @@ pip install -r requirements.txt
 
 ### 🚦 Running Tests
 pytest tests/test_login.py
+
+### Generated Allure reports 
+**https://allure-reports-swag-labs.netlify.app/**
